@@ -1,0 +1,10 @@
+{
+  "domoticz": {
+    "apiHost" : "http://myDomoticz.domain.local:8080",
+    "userName": "",
+    "password": ""
+  },
+  "devices": {
+
+  }
+}

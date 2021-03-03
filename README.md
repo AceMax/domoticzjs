@@ -1,2 +1,4 @@
 # domoticzjs
-Node.js module to access Domoticz API
+Node.js module to access Domoticz API.
+
+Work in progress..
